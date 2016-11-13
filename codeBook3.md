@@ -1,5 +1,5 @@
 "column.names" | "class" | "range" | "mean"
----|---|---|---|---|
+--- |---		 |---		 |---		  |---										 |---|
 "1" | "PersonID" | "integer" | "1  /  30" | "Not available"
 "2" | "Activities" | "factor" | "LAYING / SITTING / STANDING / WALKING / WALKING_DOWNSTAIRS / WALKING_UPSTAIRS" | "Not available"
 "3" | "tBodyAcc-mean()-X" | "numeric" | "0.265130137749216  /  0.281587895671642" | "0.274457037661638"
